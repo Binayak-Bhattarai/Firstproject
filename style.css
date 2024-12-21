@@ -14,7 +14,7 @@
  
  .main {
    display: flex;
-   border: 2px solid rgb(248, 11, 11);
+   border: 2px solid black;
    width: 324px;
    height: 324px;
  }
